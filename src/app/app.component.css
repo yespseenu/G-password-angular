@@ -1,0 +1,25 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  font-family: 'Segoe UI', Roboto, sans-serif;
+  background-color:none;
+  color: #333;
+}
+
+h2 {
+  color: #ffffff;
+  text-align: center;
+  margin-top: 3rem;
+  font-weight: 600;
+  font-size: 32px;
+}
+
+
+
+ 
